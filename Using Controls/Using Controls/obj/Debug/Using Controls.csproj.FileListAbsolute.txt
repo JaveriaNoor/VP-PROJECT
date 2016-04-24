@@ -1,0 +1,9 @@
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\bin\Debug\Using Controls.exe.config
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\bin\Debug\Using Controls.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\bin\Debug\Using Controls.pdb
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using Controls.csprojResolveAssemblyReference.cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using_Controls.Form1.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using_Controls.Properties.Resources.resources
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using Controls.csproj.GenerateResource.Cache
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using Controls.exe
+c:\users\javeria noor\documents\visual studio 2012\Projects\Using Controls\Using Controls\obj\Debug\Using Controls.pdb
